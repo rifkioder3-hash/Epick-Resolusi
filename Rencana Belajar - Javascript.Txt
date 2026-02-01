@@ -6,3 +6,5 @@
   - Array
 2. Belajar Next.Js/Laravel
 3. Belajar Fundamental Struktur Data
+4. Belajar Python
+5. Belajar Data Analis
