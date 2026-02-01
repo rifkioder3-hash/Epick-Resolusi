@@ -4,7 +4,7 @@
   - Looping
   - Type Data
   - Array
-2. Belajar Next.Js/Laravel
+2. Belajar Pyhton
 3. Belajar Fundamental Struktur Data
-4. Belajar Python
-5. Belajar Data Analis
+4. Belajar Data Analys
+
