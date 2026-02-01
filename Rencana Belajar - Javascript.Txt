@@ -1,0 +1,6 @@
+1. Kuasai Fundamental yang penting
+  - Variabel
+  - Function
+  - Looping
+  - Type Data
+  - Array
