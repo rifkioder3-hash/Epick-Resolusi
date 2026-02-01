@@ -5,3 +5,4 @@
   - Type Data
   - Array
 2. Belajar Next.Js/Laravel
+3. Belajar Fundamental Struktur Data
