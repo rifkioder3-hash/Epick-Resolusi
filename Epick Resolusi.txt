@@ -5,3 +5,4 @@ Epick rerolusi
 - Membuat 1 Projek Sederhana setiap hari
 - Dalam Waktu 1 satu kedepan sudah bisa membuat website dengan backendnya
 - Agustus sudah mengusai 1 buah Framework
+- Membuat Proposal sampai selesai pada bulan februari
